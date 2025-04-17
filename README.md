@@ -2,7 +2,7 @@
 
 📊**Business Analyst**  |**Data Analyst** |  **MBA in IT & HR**
 
-I am a results-driven Business Analyst with expertise in **_Python, SQL, Power BI, and Excel,_** leveraging data to drive business insights and strategic decision-making. With a strong foundation in business intelligence, data visualization, and analytics, I specialize in transforming complex datasets into actionable strategies.
+I am a results-driven Business Analyst | Data Analyst with expertise in **_Python, SQL, Power BI, and Excel,_** leveraging data to drive business insights and strategic decision-making. With a strong foundation in business intelligence, data visualization, and analytics, I specialize in transforming complex datasets into actionable strategies.
 
 **🔹 Skills & Expertise:**
 
